@@ -42,10 +42,6 @@ Following a **Test-Driven Development (TDD)** approach, I have implemented autom
 ```powershell
 .\mvnw.cmd spring-boot:run
 
-```
-
-
-
 ---
 
 ## 🔗 API Endpoints & Testing
